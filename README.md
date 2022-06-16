@@ -30,4 +30,4 @@ Site comercial desenvolvido para uma barbearia.
 
 ## 🔖 Layout:
 
-Você pode visualizar o layout do projeto através [desse link](#).
+Você pode visualizar o layout do projeto através [desse link](https://thaizacapelao.github.io/Barbearia-Alura/).
